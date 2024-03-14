@@ -1,5 +1,4 @@
-
-GoBackNQ
+//GoBackNQ
 
 #include<stdio.h>
 #include<time.h>
